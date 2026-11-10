@@ -1,21 +1,21 @@
 {
   "channel": "stable",
-  "version": "1.0.2",
-  "released": "2026-11-10T20:25:00Z",
+  "version": "1.0.3",
+  "released": "2026-11-10T22:29:05Z",
   "min_supported": "1.0.0",
   "iso": {
-    "url": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.2/ElvonOS-1.0.2-amd64.iso",
-    "size": 6222618624,
-    "sha256": "1f8d56a8d16afe263c474434bdc519dc3adabe509cc6d2bf45023c9a3ff1f5ec",
-    "signature": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.2/ElvonOS-1.0.2-amd64.iso.minisig"
+    "url": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.3/ElvonOS-1.0.3-amd64.iso",
+    "size": 6222397440,
+    "sha256": "228bd11aa42c88038f12559ceabd08154ce417759bd3ee248e3c1a505fdb5990",
+    "signature": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.3/ElvonOS-1.0.3-amd64.iso.minisig"
   },
   "components": {
     "elvonos-apps": {
-      "version": "1.0.2-2",
+      "version": "1.0.3",
       "type": "payload",
-      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.2-2.tar.zst",
-      "sha256": "7bdaca879a444ae269efc6a5b7c6018f5281e2dd7ccba88079ee67aff0b8a68c",
-      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.2-2.tar.zst.minisig"
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.3.tar.zst",
+      "sha256": "f30264da6e173085d14255958416648ab06e81dfe9aed0f0620ded07ae49e8fd",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.3.tar.zst.minisig"
     },
     "flatpak-store": {
       "version": "1",
