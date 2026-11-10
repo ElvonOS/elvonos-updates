@@ -1,0 +1,12 @@
+{
+  "channel": "stable",
+  "version": "1.0.0",
+  "released": "2026-11-10T15:33:20Z",
+  "min_supported": "1.0.0",
+  "iso": {
+    "url": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.0/ElvonOS-1.0.0-amd64.iso",
+    "size": 6224760832,
+    "sha256": "fb83df74fc6768c3d66e4e0b4a1995b5f3ef8643dbb0eb667eddbef39a290f91",
+    "signature": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.0/ElvonOS-1.0.0-amd64.iso.minisig"
+  }
+}
