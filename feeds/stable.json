@@ -1,21 +1,21 @@
 {
   "channel": "stable",
-  "version": "1.0.7",
-  "released": "2026-11-11T02:43:16Z",
+  "version": "1.0.9",
+  "released": "2026-11-11T20:04:02Z",
   "min_supported": "1.0.0",
   "iso": {
-    "url": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.7/ElvonOS-1.0.7-amd64.iso",
-    "size": 6222405632,
-    "sha256": "ae7a725ce5bf9de2d00c947192d6abd3b2d8a84591b3d0a51ead958b24b97cff",
-    "signature": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.7/ElvonOS-1.0.7-amd64.iso.minisig"
+    "url": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.9/ElvonOS-1.0.9-amd64.iso",
+    "size": 5971404800,
+    "sha256": "050dcddcda47fc76b5da175a050a3427197b1b22046f12338ce351d29dfdcae9",
+    "signature": "https://downloads.sourceforge.net/project/elvonos/releases/1.0.9/ElvonOS-1.0.9-amd64.iso.minisig"
   },
   "components": {
     "elvonos-apps": {
-      "version": "1.0.7-7",
+      "version": "1.0.9-1",
       "type": "payload",
-      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-7.tar.zst",
-      "sha256": "0b73d1cd990bc92e83bb7416c4a0943adf4a9c4bc6886b6866a70ef867e78779",
-      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-7.tar.zst.minisig"
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.9-1.tar.zst",
+      "sha256": "e9639c8f53e2dea6e2c04c28f0b418f446ca5e77ee91d2733b96095c28a2fdea",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.9-1.tar.zst.minisig"
     },
     "flatpak-store": {
       "version": "1",
@@ -30,6 +30,20 @@
       "url": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-2.sh",
       "sha256": "7069835653b0dea802dd333d9d6d205a3a0a27ee784618000403fb6e6bbf1640",
       "signature": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-2.sh.minisig"
+    },
+    "waydroid-image": {
+      "version": "1",
+      "type": "script",
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/waydroid-image-1.sh",
+      "sha256": "e9450e0197ee8213350722c41d726c2988609a73fecc4f0b07e62a9822871102",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/waydroid-image-1.sh.minisig"
+    },
+    "desktop-policy": {
+      "version": "1",
+      "type": "script",
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/desktop-policy-1.sh",
+      "sha256": "a692401341edb22a89b158e661c75b2618a2d574678f2e4dc42b49ec466e6004",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/desktop-policy-1.sh.minisig"
     }
   }
 }
