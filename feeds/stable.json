@@ -11,11 +11,11 @@
   },
   "components": {
     "elvonos-apps": {
-      "version": "1.0.7-4",
+      "version": "1.0.7-5",
       "type": "payload",
-      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-4.tar.zst",
-      "sha256": "03887215560a9ad91a99d49ae0cf5521b86d786ef4d45949d1ddcca9d0089a24",
-      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-4.tar.zst.minisig"
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-5.tar.zst",
+      "sha256": "6b927daa0eb683f2d7907b1c89ecf75ca351e8bb6e174fff8b8ed5d27c9c0594",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-5.tar.zst.minisig"
     },
     "flatpak-store": {
       "version": "1",
@@ -25,11 +25,11 @@
       "signature": "https://downloads.sourceforge.net/project/elvonos/components/flatpak-store-1.sh.minisig"
     },
     "zz-auto-updates": {
-      "version": "1",
+      "version": "2",
       "type": "script",
-      "url": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-1.sh",
-      "sha256": "6e2694bbe6b784c3afeb0adc7228a9ac608b9fb5434161ff87ea6725a16f1ac6",
-      "signature": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-1.sh.minisig"
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-2.sh",
+      "sha256": "7069835653b0dea802dd333d9d6d205a3a0a27ee784618000403fb6e6bbf1640",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/zz-auto-updates-2.sh.minisig"
     }
   }
 }
