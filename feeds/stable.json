@@ -11,11 +11,11 @@
   },
   "components": {
     "elvonos-apps": {
-      "version": "1.0.7-6",
+      "version": "1.0.7-7",
       "type": "payload",
-      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-6.tar.zst",
-      "sha256": "1845913c6d1bbea1a014f6a7c4b1c74bfe5307f7e4aeee706cf82f2be85ef750",
-      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-6.tar.zst.minisig"
+      "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-7.tar.zst",
+      "sha256": "597307d7559e2fae446d76a0b3decb8ef760dc75254ef02d7a480c6b239b922c",
+      "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.7-7.tar.zst.minisig"
     },
     "flatpak-store": {
       "version": "1",
