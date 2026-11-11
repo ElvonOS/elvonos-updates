@@ -27,7 +27,7 @@ The client verifies the feed and each payload/script before use.
 
 | Component | Version | Type |
 |---|---|---|
-| `elvonos-apps` | `1.0.7-5` | payload (ElvonOS apps/scripts) |
+| `elvonos-apps` | `1.0.7-7` | payload (ElvonOS apps/scripts) |
 | `flatpak-store` | `1` | script (Flathub setup) |
 | `zz-auto-updates` | `2` | script (enable automatic updates) |
 
