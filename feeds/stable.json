@@ -14,7 +14,7 @@
       "version": "1.0.4-3",
       "type": "payload",
       "url": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.4-3.tar.zst",
-      "sha256": "c4d0d4fe481eb6874e167a4ab570feb63c148ac984bb2b167028fa7504dda8a1",
+      "sha256": "db2cfcd28d3fc21dd79a1f2d0f8b88f15c75b5ee474c227faa20cf43a1cde32f",
       "signature": "https://downloads.sourceforge.net/project/elvonos/components/elvonos-apps-1.0.4-3.tar.zst.minisig"
     },
     "flatpak-store": {
